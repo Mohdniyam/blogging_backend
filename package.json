@@ -1,0 +1,19 @@
+{
+  "name": "blogging_backend",
+  "version": "1.0.0",
+  "description": "blogging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdniyam/blogging_backend.git"
+  },
+  "author": "niyam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdniyam/blogging_backend/issues"
+  },
+  "homepage": "https://github.com/Mohdniyam/blogging_backend#readme"
+}
