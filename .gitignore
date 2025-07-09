@@ -1,0 +1,25 @@
+# System Files
+.DS_Store
+.Trash/
+.zsh_history
+.zsh_sessions/
+.zprofile
+.zshrc
+.viminfo
+
+# IDE/Editor Folders
+.idea/
+.vscode/
+.gradle/
+.npm/
+.yarn/
+.vscode/
+
+# Node and npm-related files
+node_modules/
+package-lock.json
+
+# OS-specific files
+.AppleDouble
+.Spotlight-V100
+.Trashes
